@@ -1,0 +1,4 @@
+In one sentence: I thought those options would install the main Git program along with extra tools like a graphical user interface (GUI) and a terminal-based wrapper for using Git more easily.
+A programmer would want to use the command line because it provides faster, more powerful, and flexible control over tasks like running programs, managing files, and using development tools efficiently.
+When you type pwd again, the shell prints out the current working directory, which is the path of the folder you are currently in.
+When you type pwd again, the shell prints out the current working directory, which is the path of the folder you are currently in.
