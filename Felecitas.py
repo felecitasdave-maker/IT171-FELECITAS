@@ -8,7 +8,7 @@ treasure_y = 2
 
 game_running = True
 
-print("Welcome to the Treasure Hunt!")
+print("Welcome to {lastname}'s Maze")
 print("Players: Dave and Felicitas")
 print("Use 'up', 'down', 'left', 'right' to move, or 'quit' to stop playing.\n")
 
