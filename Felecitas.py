@@ -8,20 +8,20 @@ treasure_y = 2
 
 game_running = True
 
-print("Welcome to the Treasure Hunt!")
+print("Welcome to {lastname}'s Maze")
 print("Players: Dave and Felicitas")
 print("Use 'up', 'down', 'left', 'right' to move, or 'quit' to stop playing.\n")
 
 
 def move_player(name, x, y):
     move = input(f"{name}'s move (up/down/left/right/quit): ").lower().strip()
-    if move == "up":
+    if move == "w":
         y += 1
-    elif move == "down":
+    elif move == "s":
         y -= 1
-    elif move == "left":
+    elif move == "a":
         x -= 1
-    elif move == "right":
+    elif move == "d":
         x += 1
     elif move == "quit":
         print(f"{name} quit the game.")
