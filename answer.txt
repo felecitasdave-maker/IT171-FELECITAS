@@ -2,3 +2,17 @@ In one sentence: I thought those options would install the main Git program alon
 A programmer would want to use the command line because it provides faster, more powerful, and flexible control over tasks like running programs, managing files, and using development tools efficiently.
 When you type pwd again, the shell prints out the current working directory, which is the path of the folder you are currently in.
 When you type pwd again, the shell prints out the current working directory, which is the path of the folder you are currently in.
+
+diff --git a/Felecitas.py b/Felecitas.py
+index 4805818..5a61079 100644
+--- a/Felecitas.py
++++ b/Felecitas.py
+@@ -8,7 +8,7 @@ treasure_y = 2
+
+ game_running = True
+
+-print("Welcome to {lastname}'s Maze")
++print("Welcome to the Treasure Hunt!")^M
+ print("Players: Dave and Felicitas")
+ print("Use 'up', 'down', 'left', 'right' to move, or 'quit' to stop playing.\n"
+)
