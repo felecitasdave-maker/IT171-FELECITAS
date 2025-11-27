@@ -52,4 +52,8 @@ while game_running:
    
     if felicitas_x == treasure_x and felicitas_y == treasure_y:
         print("Felicitas found the treasure! Felicitas wins!")
+<<<<<<< HEAD
         break
+=======
+        break
+>>>>>>> origin/main
